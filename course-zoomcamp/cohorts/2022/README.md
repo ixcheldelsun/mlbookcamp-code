@@ -1,9 +1,11 @@
 ## Machine Learning Zoomcamp 2022
 
-* Launch stream: **TODO**
+* [Launch stream with course overview](https://www.youtube.com/watch?v=MqI8vt3-cag&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
 * [Course calendar](https://calendar.google.com/calendar/?cid=cGtjZ2tkbGc1OG9yb2lxa2Vwc2g4YXMzMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * [Deadline calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vQiEznNaTrblegQtBwQ-zsoJY6Vh_XL7_rilGYugRuCFhBQfnJR7D-QArGlilAiF9qrkY5ED2n-9ibD/pubhtml)
-
+* [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit#)
+* [Leaderboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzLGpva63gb2rIilFnpZMRSb-buyr5oGh8jmDtIb8DANo4n6hDalra_WRCl4EZwO1JvaC4UIS62n5h/pubhtml)
+* [Course Playlist: Only 2022 Live videos & homeworks](https://www.youtube.com/watch?v=MqI8vt3-cag&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
 ### Syllabus
 
@@ -11,76 +13,110 @@
 
 * [Module materials](../../01-intro)
 * [Homework](01-intro/homework.md)
+* Homework solution:
+  * [Notebook](01-intro/homework_1.ipynb)
+  * [Video](https://www.youtube.com/watch?v=J0Ht4V9mIRI&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+* [Office hours](https://www.youtube.com/watch?v=VojpszKmKw8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+
+
+**[2. Machine Learning for Regression](02-regression/)**
+
+* [Module materials](../../02-regression)
+* [Homework](02-regression/homework.md)
+* Homework solution:
+  * [Notebook](02-regression/homework_2.ipynb)
+  * [Video](https://www.youtube.com/watch?v=mWJwXyibqW8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+* [Office hours](https://www.youtube.com/watch?v=UYWy8ETnKt8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+
+
+[**3. Machine Learning for Classification**](03-classification/)
+
+* [Module materials](../../03-classification)
+* [Homework](03-classification/homework.md)
+* Homework solution:
+  * [Notebook](03-classification/homework_3.ipynb)
+  * [Video](https://www.youtube.com/watch?v=o--DqcyRLEM&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+* [Office hours](https://www.youtube.com/watch?v=WYOahoRGvZc&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+
+
+[**4. Evaluation Metrics for Classification**](04-evaluation/)
+
+* [Module materials](../../04-evaluation)
+* [Homework](04-evaluation/homework.md)
+* Homework solution:
+  * [Notebook](04-evaluation/homework_4.ipynb)
+  * [Video](https://youtu.be/82TYlOvKwfk)
+* [Office hours](https://www.youtube.com/watch?v=glwPRlEcYgU&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+
+
+[**5. Deploying Machine Learning Models**](05-deployment/)
+
+* [Module materials](../../05-deployment)
+* [Homework](05-deployment/homework.md)
+* Homework solution:
+  * [Code](05-deployment/homework/)
+  * [Video](https://youtu.be/LZFKhcG6ygc)
+* [Office hours](https://www.youtube.com/watch?v=4JMd6ovNuwk&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+
+
+[**6. Decision Trees and Ensemble Learning**](06-trees/)
+
+* [Module materials](../../06-trees)
+* [Homework](06-trees/homework.md)
+* Homework solution:
+  * [Notebook](06-trees/homework_6.ipynb)
+* Office hours - to be added
+
+
+[**7. Production-Ready Machine Learning (Bento ML)**](07-bento-production/)
+
+* [Module materials](../../07-bentoml-production/)
+* [Homework](07-bento-production/homework.md)
 * Homework solution - to be added
 * Office hours - to be added
 
-**2. Machine Learning for Regression**
 
-* [Module materials](../../02-regression)
-* TBA
+**Midterm Project**
 
-**3. Machine Learning for Classification**
+* More information: [projects.md](projects.md#midterm-project)
 
-* [Module materials](../../03-classification)
-* TBA
-
-**4. Evaluation Metrics for Classification**
-
-* [Module materials](../../04-evaluation)
-* TBA
-
-**5. Deploying Machine Learning Models**
-
-* [Module materials](../../05-deployment)
-* TBA
-
-**5b. Bento ML**
-
-* [Module materials - TBA](../../05-deployment)
-* TBA
-
-**6. Decision Trees and Ensemble Learning**
-
-* [Module materials](../../06-trees)
-* TBA
-
-**7. Midterm Project**
-
-* TBA
 
 **8. Neural Networks and Deep Learning**
 
 * [Module materials](../../08-deep-learning)
 * TBA
 
+
 **9. Serverless Deep Learning**
 
 * [Module materials](../../09-serverless)
 * TBA
+
 
 **10. Kubernetes and TensorFlow Serving**
 
 * [Module materials](../../10-kubernetes)
 * TBA
 
+
 **11. KServe (optional)**
 
 * [Module materials](../../11-kserve)
 * No homework
 
-**12. Capstone Project**
-
-* TBA
-
-**13. Article**
-
-* TBA
-
-**14. Third project (optional)**
+**Capstone Project**
 
 * TBA
 
 
+**Article**
+
+* TBA
+
+
+**Third project (optional)**
+
+* TBA
 
 
 
